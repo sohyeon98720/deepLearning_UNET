@@ -13,9 +13,11 @@
 -------------
 
 ### keras U-NET with vein data
-- data: [deepLearning_GAN에서 사용한 데이터](https://github.com/sohyeon98720/deepLearning_GAN#keras-gan-with-vein-data)의 일부와 이 원본데이터를 **data augmentation**한 데이터를 적절히 섞어 사용함
+- data: [deepLearning_GAN에서 사용한 데이터](https://github.com/sohyeon98720/deepLearning_GAN#keras-gan-with-vein-data)의 일부와 이 원본데이터를 **data augmentation**한 데이터를 적절히 섞어 재구성한 지정맥영상 **1880장**<br>
+  - 원본데이터
 
 -------------
  ### 참고자료
--  https://mylifemystudy.tistory.com/87?category=797525
-- https://www.quantumdl.com/entry/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84-%EC%9C%84%ED%95%9C-Atrous-Convolution%EA%B3%BC-UNet-%EA%B5%AC%EC%A1%B0-%EA%B0%84%EB%9E%B5%ED%95%9C-%EC%97%AD%EC%82%AC
+ - 이론참고<br>
+  -  https://mylifemystudy.tistory.com/87?category=797525
+  - https://www.quantumdl.com/entry/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84-%EC%9C%84%ED%95%9C-Atrous-Convolution%EA%B3%BC-UNet-%EA%B5%AC%EC%A1%B0-%EA%B0%84%EB%9E%B5%ED%95%9C-%EC%97%AD%EC%82%AC
