@@ -13,7 +13,7 @@
 -------------
 
 ### keras U-NET with vein data
-- data: [deepLearning_GAN에서 사용한 데이터](https://github.com/sohyeon98720/deepLearning_GAN#keras-gan-with-vein-data)와 이를 data_augmentation(brightness,contrast만 조절)하여 생성한 데이터를 적절히 섞어 사용함
+- data: [deepLearning_GAN에서 사용한 데이터](https://github.com/sohyeon98720/deepLearning_GAN#keras-gan-with-vein-data)의 일부와 이 원본데이터를 **data augmentation**한 데이터를 적절히 섞어 사용함
 
 -------------
  ### 참고자료
