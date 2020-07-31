@@ -13,7 +13,7 @@
 -------------
 
 ### keras U-NET with vein data
-- data: 
+- data: [deepLearning_GAN 레파지토리에서 사용된 데이터](https://github.com/sohyeon98720/deepLearning_GAN#keras-gan-with-vein-data)
 
 -------------
  ### 참고자료
