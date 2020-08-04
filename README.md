@@ -31,4 +31,4 @@
 
  - 코드참고
    - https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277
-   - https://www.kaggle.com/eduardomineo/u-net-lung-segmentation-montgomery-shenzhen#4.-Results
+  
