@@ -23,7 +23,7 @@
 <br>
 
 - __평가지표__: mean IoU
- - **mean IoU**: = intersection over union
+  - **mean IoU**: = intersection over union
  
 
 
