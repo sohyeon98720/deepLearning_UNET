@@ -34,6 +34,7 @@
    - https://mylifemystudy.tistory.com/87?category=797525
    - https://www.quantumdl.com/entry/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84-%EC%9C%84%ED%95%9C-Atrous-Convolution%EA%B3%BC-UNet-%EA%B5%AC%EC%A1%B0-%EA%B0%84%EB%9E%B5%ED%95%9C-%EC%97%AD%EC%82%AC
    - https://www.kakaobrain.com/blog/64
+   - https://jetsonaicar.tistory.com/14
 
  - 코드참고
    - https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277
