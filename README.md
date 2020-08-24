@@ -23,7 +23,7 @@
 <br>
 
 - __평가지표__: mean IoU
-  - **mean IoU** = intersection over union = Area of Overlap / Area of Union
+  - **IoU** = intersection over union = Area of Overlap / Area of Union
     <img src="https://user-images.githubusercontent.com/47767202/91018050-067b9a00-e62a-11ea-9b3d-a8aa97fb4d22.png" width="60%">
  
 - __결과__: 
