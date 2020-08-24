@@ -25,6 +25,7 @@
 - __평가지표__: mean IoU
   - **mean IoU** = intersection over union = Area of Overlap / Area of Union
  
+- __결과__: 
 
 
 -------------
