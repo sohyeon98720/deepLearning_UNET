@@ -25,7 +25,8 @@
 - __평가지표__: mean IoU
   - **IoU** = intersection over union = Area of Overlap / Area of Union <br>
     <img src="https://user-images.githubusercontent.com/47767202/91118395-d1c01f00-e6cb-11ea-9920-89ab1c04ac22.png" width="30%"><br>
-    <img src="https://user-images.githubusercontent.com/47767202/91018050-067b9a00-e62a-11ea-9b3d-a8aa97fb4d22.png" width="60%">
+    <img src="https://user-images.githubusercontent.com/47767202/91018050-067b9a00-e62a-11ea-9b3d-a8aa97fb4d22.png" width="60%"><br>
+    주로 IoU score threshold 값으로 0.5를 설정함
  
 - __결과__: 
 
