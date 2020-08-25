@@ -22,7 +22,7 @@
 >> 순서대로 x_train, y_train(이진화하기 전), test data
 <br>
 
-- __평가지표__: mean IoU
+- __평가지표__: mean IoU(IoU의 평균)
   - **IoU** = intersection over union = Area of Overlap / Area of Union <br>
     <img src="https://user-images.githubusercontent.com/47767202/91118395-d1c01f00-e6cb-11ea-9920-89ab1c04ac22.png" width="30%"><br>
     <img src="https://user-images.githubusercontent.com/47767202/91018050-067b9a00-e62a-11ea-9b3d-a8aa97fb4d22.png" width="60%"><br>
