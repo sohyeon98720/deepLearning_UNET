@@ -18,15 +18,9 @@
 - **y train** data: x_train에서 직접 지정맥 부분에 선을 그려 이진화처리한 영상 1880장<br>
 - **test** data: deepLearning_GAN에서 사용한 데이터의 일부와 이 원본데이터를 augmentation한 데이터를 적절히 섞어 재구성한 지정맥 영상 **600장** <br>
 
-  |x_train|x_train에서 선을 그린 영상|y_train|
+  |x_train|x_train->y_train처리과정|y_train|
   |:---:|:---:|:---:|
   |<img src="https://user-images.githubusercontent.com/47767202/91634249-e4b75400-ea29-11ea-88aa-74447b0a1676.jpg">|<img src="https://user-images.githubusercontent.com/47767202/91634269-129c9880-ea2a-11ea-9cf5-7fb328a81e4b.jpg">|<img src="https://user-images.githubusercontent.com/47767202/91634311-6d35f480-ea2a-11ea-940d-651d4dc7bcc7.jpg">|
-  |1)원본영상|2)1+지정맥부분에 선을 덧댐|3)2+이진화 처리한 영상|
-
-
-> <img src="https://user-images.githubusercontent.com/47767202/89186561-f34f4e80-d5d6-11ea-9fe0-7bc4b1fe2eba.png"> <br>
->> 순서대로 x_train, y_train(이진화하기 전), test data
-<br>
 
 - __평가지표__: mean IoU(IoU의 평균)
   - **IoU** = intersection over union = Area of Overlap / Area of Union <br>
