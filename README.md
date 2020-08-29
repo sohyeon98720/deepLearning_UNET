@@ -21,6 +21,8 @@
   |x_train|x_train->y_train처리과정|y_train|
   |:---:|:---:|:---:|
   |<img src="https://user-images.githubusercontent.com/47767202/91634249-e4b75400-ea29-11ea-88aa-74447b0a1676.jpg">|<img src="https://user-images.githubusercontent.com/47767202/91634269-129c9880-ea2a-11ea-9cf5-7fb328a81e4b.jpg">|<img src="https://user-images.githubusercontent.com/47767202/91634311-6d35f480-ea2a-11ea-940d-651d4dc7bcc7.jpg">|
+  |원본|원본+선|원본+선+이진화|
+
 
 - __평가지표__: mean IoU(IoU의 평균)
   - **IoU** = intersection over union = Area of Overlap / Area of Union <br>
