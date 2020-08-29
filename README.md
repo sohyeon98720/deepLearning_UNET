@@ -31,8 +31,8 @@
  
  <br>
  
-- __결과__: 
- <img src="https://user-images.githubusercontent.com/47767202/91633721-9d2ec900-ea25-11ea-98cd-6803713d09b0.png" width="40%">
+- __결과__: <br>
+ | x_test원본 | x_test의 정답영상 | 
 
 
 -------------
