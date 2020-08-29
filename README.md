@@ -18,6 +18,11 @@
 - **y train** data: x_train에서 직접 지정맥 부분에 선을 그려 이진화처리한 영상 1880장<br>
 - **test** data: deepLearning_GAN에서 사용한 데이터의 일부와 이 원본데이터를 augmentation한 데이터를 적절히 섞어 재구성한 지정맥 영상 **600장** <br>
 
+|x_train|y_train|y_train에 이진화처리|
+|:---:|:---:|:---:|
+|     |     |     |
+
+
 > <img src="https://user-images.githubusercontent.com/47767202/89186561-f34f4e80-d5d6-11ea-9fe0-7bc4b1fe2eba.png"> <br>
 >> 순서대로 x_train, y_train(이진화하기 전), test data
 <br>
