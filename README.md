@@ -35,9 +35,9 @@
  
 - __결과__: <br>
 
-|x_test 원본영상|x_test 정답영상|x_test predict영상|x_test predict_upsampled영상|
-|:---:|:---:|:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/47767202/91633930-60fc6800-ea27-11ea-8b14-fea1cf9864ef.jpg">|<img src="https://user-images.githubusercontent.com/47767202/91634052-51c9ea00-ea28-11ea-87ce-3ea499b1bbf6.jpg">|<img src="https://user-images.githubusercontent.com/47767202/91634102-bedd7f80-ea28-11ea-8185-5b7a351de9b4.jpg">|<img src="https://user-images.githubusercontent.com/47767202/91634118-dae12100-ea28-11ea-9f31-0802a80baf7d.jpg">|
+  |x_test 원본영상|x_test 정답영상|x_test predict영상|x_test predict_upsampled영상|
+  |:---:|:---:|:---:|:---:|
+  |<img src="https://user-images.githubusercontent.com/47767202/91633930-60fc6800-ea27-11ea-8b14-fea1cf9864ef.jpg">|<img src="https://user-images.githubusercontent.com/47767202/91634052-51c9ea00-ea28-11ea-87ce-3ea499b1bbf6.jpg">|<img src="https://user-images.githubusercontent.com/47767202/91634102-bedd7f80-ea28-11ea-8185-5b7a351de9b4.jpg">|<img src="https://user-images.githubusercontent.com/47767202/91634118-dae12100-ea28-11ea-9f31-0802a80baf7d.jpg">|
 
 
 -------------
