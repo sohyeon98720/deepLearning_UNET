@@ -30,7 +30,7 @@
     <img src="https://user-images.githubusercontent.com/47767202/91118395-d1c01f00-e6cb-11ea-9920-89ab1c04ac22.png" width="30%"><br>
     <img src="https://user-images.githubusercontent.com/47767202/91018050-067b9a00-e62a-11ea-9b3d-a8aa97fb4d22.png" width="60%"><br>
     주로 IoU score threshold 값으로 0.5를 설정함
-    > R-CNN에서는 ground truth와 proposed region 사이의 IoU 값을 계산해 0.5 이상인 경우 해당 region을 객체로 바라보고 ground truth와 같은 class로 labelling함
+    > R-CNN에서는 ground truth와 proposed region 사이의 IoU 값을 계산해 0.5 이상인 경우 해당 region을 객체로 바라보고 ground truth와 같은 class로 labelling함.
  
  <br>
  
