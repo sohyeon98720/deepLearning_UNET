@@ -1,9 +1,6 @@
 # U-NET을 이용한 지정맥영상 segmentation
 ### 졸업프로젝트(2020.04~2020.06)
 ------------
-### 프로젝트 요약설명
-
--------
 
 ### U-NET 요약설명
  - U-NET = Convolutional Networks for Biomedical Image Segmentation
