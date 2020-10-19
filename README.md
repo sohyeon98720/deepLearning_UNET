@@ -54,6 +54,6 @@
    - https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277
    - https://www.kaggle.com/eduardomineo/u-net-lung-segmentation-montgomery-shenzhen#4.-Results
   
-
-소현아 안녕😀 취뽀하자 파이팅!🥰  
+\\<!--소현아 안녕😀 취뽀하자 파이팅!🥰  
 해결했따~~~~~~~~~~~~~~~~~~~~~ 난 몽춍했따~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  헤헤헤헤헿  
+ -->
