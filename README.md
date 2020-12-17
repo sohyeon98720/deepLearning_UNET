@@ -17,11 +17,11 @@
 -------------
 
 ### denselayer_based_Unet
-- **x train** data: [deepLearning_GAN에서 사용한 데이터](https://github.com/sohyeon98720/deepLearning_GAN#keras-gan-with-vein-data)의 일부와 이 원본데이터를 **augmentation**한 데이터를 적절히 섞어 재구성한 지정맥영상 **1880장**<br>
+- **x train** data: [deepLearning_GAN에서 사용한 데이터](https://github.com/sohyeon98720/deepLearning_GAN#keras-gan-with-vein-data)의 일부와 이 원본데이터를 **augmentation**한 데이터를 적절히 섞어 재구성한 손가락 정맥영상 **1880장**<br>
   - 원본데이터 2610장을 그대로 사용하지않은 이유는 한 명의 사람이 한 손가락에 대해 10장씩 영상이 획득되었기때문에 비슷한 영상이 너무 많아 학습이 잘 이루어지지 않을 것을 고려한 것임
   - data augmentation은 데이터의 특성(의료데이터)을 고려하여 flip, crop등의 원본 데이터를 해칠 수 있는 연산을 제외하고 brightness와 contrast만 조절하였음
 - **y train** data: x_train에서 직접 지정맥 부분에 선을 그려 이진화처리한 영상 1880장<br>
-- **test** data: deepLearning_GAN에서 사용한 데이터의 일부와 이 원본데이터를 augmentation한 데이터를 적절히 섞어 재구성한 지정맥 영상 **600장** <br>
+- **test** data: deepLearning_GAN에서 사용한 데이터의 일부와 이 원본데이터를 augmentation한 데이터를 적절히 섞어 재구성한 손가락 정맥 영상 **600장** <br>
 
   |x_train|x_train->y_train처리과정|y_train|
   |:---:|:---:|:---:|
